@@ -1,41 +1,72 @@
-<!-- Header Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/programming-fighter/assets/main/banner.png" alt="Programming Fighter Banner"/>
 </p>
 
 <h1 align="center">🚀 Programming Fighter</h1>
 <p align="center"><i>Make Your Learning Journey Faster</i></p>
+<p align="center">Empowering the next generation of developers through project-based learning</p>
+
+---
+
+## 📖 About Us
+**Programming Fighter** is a modern e-learning platform revolutionizing how people learn programming and tech skills.  
+
+Founded with the mission to **bridge the gap between theoretical knowledge and real-world application**, we provide an immersive learning experience through **hands-on projects and expert mentorship**.
+
+---
+
+## 🌍 Our Vision
+*"To create a world where anyone, anywhere can transform their lives through accessible, practical tech education."*
+
+---
+
+## 💡 Core Values
+- 🛠 **Practicality First:** Focus on real-world skills over abstract theory  
+- 👨‍🏫 **Mentorship Matters:** Direct access to industry professionals  
+- ⏰ **Learning Flexibility:** Anytime, anywhere education  
+- 🤝 **Community Driven:** Collaborative learning environment  
+- 🎯 **Career Focused:** Skills that translate to job opportunities  
+
+---
+
+## ✨ What Makes Us Different?
+🔥 **Project-Centric Approach** – Build real-world applications from day one  
+👨‍💻 **Industry-Expert Instructors** – Learn from professionals at top tech companies  
+🔄 **Continuous Curriculum Updates** – Stay up-to-date with industry trends  
+🎯 **Job-Ready Focus** – Resume prep, interview training & portfolio building  
+
+---
+
+## 📚 Our Offerings
+### 🎓 Learning Paths
+- **Full Stack Development** – MERN, MEAN, Django  
+- **Mobile Development** – Flutter, React Native, Swift  
+- **Data Science & AI** – Python, TensorFlow, ML  
+- **DevOps & Cloud** – AWS, Docker, Kubernetes  
+- **Quality Assurance** – Automation Testing, Selenium  
+
+### 🛠 Features
+- ✅ Interactive coding environment  
+- ✅ Peer code reviews  
+- ✅ 1:1 mentorship sessions  
+- ✅ Capstone projects  
+- ✅ Career support services  
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programming-fighter&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programming-fighter&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programming-fighter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programming-fighter&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programming-fighter&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programming-fighter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 🏢 About Programming Fighter
-**Programming Fighter** is a modern e-learning company providing:
-- 🎓 **Courses** (Full Stack, Mobile, AI/ML, DevOps, QA)  
-- 🌐 **Website & App Development**  
-- 💼 **Mentorship & Career Support**  
-
----
-
-## 💡 Our Focus
-- 🛠 **Project Based Learning**  
-- 👨‍🏫 **Mentorship from Experts**  
-- 🤝 **Community Driven Growth**  
-- 🎯 **Job-Ready Skills**  
 
 ---
 
@@ -49,10 +80,10 @@
 
 ---
 
-## 🌍 Connect With Us
-- 🌐 [Website](https://www.programming-fighter.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/company/programming-fighter)  
-- 📧 support@programming-fighter.com  
+## 🌍 Join Our Community
+- 🌐 **Website:** [programming-fighter.com](https://www.programming-fighter.com)  
+- 📧 **Email:** support@programming-fighter.com  
+- 💼 **LinkedIn:** [Programming Fighter](https://www.linkedin.com/company/programming-fighter)  
 
 ---
 
@@ -60,4 +91,6 @@
   <b>✨ From beginner to job-ready developer - faster than you thought possible ✨</b>
 </p>
 
----
+<p align="center">
+  Made with ❤️ by <b>Programming Fighter</b>
+</p>
