@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/programming-fighter/assets/main/logo.png" alt="Programming Fighter Logo" width="200"/>
+  <img src="programmingfighter.png" alt="Programming Fighter Logo" width="200"/>
 </p>
 
 <h1 align="center">🚀 Programming Fighter</h1>
