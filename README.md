@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/programming-fighter/assets/main/banner.png" alt="Programming Fighter Banner"/>
+  <img src="programmingfighter.png" alt="Programming Fighter Banner"/>
 </p>
 
 <h1 align="center">🚀 Programming Fighter</h1>
